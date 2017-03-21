@@ -1,0 +1,11 @@
+{
+  "name": "tcp-checker",
+  "version": "1.0.0",
+  "description": "Checks if it is possible to connect to a tcp `addr:port`.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cirocosta/tcp-checker.git"
+  },
+  "license": "MIT"
+}
